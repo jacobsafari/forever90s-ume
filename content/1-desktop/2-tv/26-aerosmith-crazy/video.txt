@@ -1,0 +1,29 @@
+Title: Aerosmith - Crazy
+
+----
+
+Meta: 
+
+----
+
+Icon-image: aerosmith.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USIV20400184&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

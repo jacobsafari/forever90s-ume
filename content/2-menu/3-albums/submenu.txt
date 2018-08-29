@@ -1,0 +1,13 @@
+Title: Albums
+
+----
+
+Icon-image: 
+
+----
+
+No-title: false
+
+----
+
+Items: 

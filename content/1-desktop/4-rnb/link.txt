@@ -1,0 +1,17 @@
+Title: 90’s R&B Playlist
+
+----
+
+Meta: 
+
+----
+
+Icon-image: microphone.png
+
+----
+
+Icon-silhouette-image: microphone.png
+
+----
+
+Link: https://ume.lnk.to/90sRnB

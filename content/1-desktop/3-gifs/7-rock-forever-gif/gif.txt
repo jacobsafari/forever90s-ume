@@ -1,0 +1,17 @@
+Title: rock-forever.gif
+
+----
+
+Meta: 
+
+----
+
+Icon-image: rock-forever.gif
+
+----
+
+Icon-silhouette-image: rock-forever.gif
+
+----
+
+Main-image: rock-forever.gif

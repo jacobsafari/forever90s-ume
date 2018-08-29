@@ -1,0 +1,17 @@
+Title: Explore 90’s Albums
+
+----
+
+Meta: 
+
+----
+
+Icon-image: folder-album.png
+
+----
+
+Icon-silhouette-image: folder-album-on.png
+
+----
+
+Items: 

@@ -1,0 +1,17 @@
+Title: Beck - Odelay
+
+----
+
+Meta: 
+
+----
+
+Icon-image: beck.png
+
+----
+
+Icon-silhouette-image: beck.png
+
+----
+
+Link: https://UMe.lnk.to/Odelay

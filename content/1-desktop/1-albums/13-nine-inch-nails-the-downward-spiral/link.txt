@@ -1,0 +1,17 @@
+Title: Nine Inch Nails - The Downward Spiral
+
+----
+
+Meta: 
+
+----
+
+Icon-image: nin.png
+
+----
+
+Icon-silhouette-image: nin.png
+
+----
+
+Link: https://UMe.lnk.to/TheDownwardSpiral

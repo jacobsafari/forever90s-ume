@@ -1,0 +1,29 @@
+Title: blink-182 - All The Small Things
+
+----
+
+Meta: 
+
+----
+
+Icon-image: blink182.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USMCV9900120&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

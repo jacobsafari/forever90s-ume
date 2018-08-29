@@ -1,0 +1,17 @@
+Title: Forever 90’s Playlist
+
+----
+
+Meta: Forever 90's Playlist goes here
+
+----
+
+Icon-image: 90sb.png
+
+----
+
+Icon-silhouette-image: 90sb.png
+
+----
+
+Link: https://ume.lnk.to/Forever90s

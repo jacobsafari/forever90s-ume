@@ -1,0 +1,29 @@
+Title: Ace of Base - The Sign
+
+----
+
+Meta: 
+
+----
+
+Icon-image: aceofbase.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=SEZ860700109&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

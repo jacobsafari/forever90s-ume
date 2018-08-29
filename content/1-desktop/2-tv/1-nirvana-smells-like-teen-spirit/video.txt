@@ -1,0 +1,29 @@
+Title: Nirvana - Smells Like Teen Spirit
+
+----
+
+Meta: 
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USIV20500045&autoplay=true
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Main-image: 
+
+----
+
+Icon-image: nirvana2.png
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315

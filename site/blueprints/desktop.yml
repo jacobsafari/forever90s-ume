@@ -1,0 +1,85 @@
+title: Desktop
+pages: true
+  hide: true
+  template:
+    - gif
+    - folder
+    - link
+    - text
+    - video
+files: true
+fields:
+  tab1:
+    label: General
+    type: tabs
+  title:
+    label: Title
+    type:  text
+  background_image:
+    label: Background Image
+    type: selector
+    mode: single
+    types:
+      - image
+  items:
+    label: Content
+    type: subpagelist
+  tab2:
+    label: Default Images
+    type: tabs
+  default_folder_icon:
+    label: Folder Icon Image
+    type: selector
+    mode: single
+    types:
+      - image
+    width: 1/2
+  default_folder_silhouette_icon:
+    label: Folder Silhouette
+    type: selector
+    mode: single
+    types:
+      - image
+    width: 1/2
+  default_gif_icon:
+    label: Gif
+    type: selector
+    mode: single
+    types:
+      - image
+    width: 1/2
+  default_gif_silhouette_icon:
+    label: Gif Silhouette
+    type: selector
+    mode: single
+    types:
+      - image
+    width: 1/2
+  default_text_icon:
+    label: Text File
+    type: selector
+    mode: single
+    types:
+      - image
+    width: 1/2
+  default_text_silhouette_icon:
+    label: Text File Silhouette`
+    type: selector
+    mode: single
+    types:
+      - image
+    width: 1/2
+  default_link_icon:
+    label: Link File
+    type: selector
+    mode: single
+    types:
+      - image
+    width: 1/2
+  default_link_silhouette_icon:
+    label: Link File Silhouette
+    type: selector
+    mode: single
+    types:
+      - image
+    width: 1/2

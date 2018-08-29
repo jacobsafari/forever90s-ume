@@ -1,0 +1,29 @@
+Title: Smash Mouth - All Star
+
+----
+
+Meta: 
+
+----
+
+Icon-image: smashmouth.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USIV20110065&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

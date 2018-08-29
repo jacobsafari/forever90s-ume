@@ -1,0 +1,29 @@
+Title: The Offspring - Pretty Fly
+
+----
+
+Meta: 
+
+----
+
+Icon-image: offspring.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USSM20100648&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

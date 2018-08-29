@@ -1,0 +1,28 @@
+title: Gif
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  meta:
+    label: Meta Text
+    type: text
+  icon_image:
+    label: Icon
+    type: selector
+    mode: single
+    types:
+      - image
+  icon_silhouette_image:
+    label: Icon Silhouette
+    type: selector
+    mode: single
+    types:
+      - image
+  main_image:
+    label: Main Image
+    type: selector
+    mode: single
+    types:
+      - image

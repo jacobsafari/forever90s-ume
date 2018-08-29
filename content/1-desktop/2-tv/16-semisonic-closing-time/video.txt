@@ -1,0 +1,29 @@
+Title: Semisonic - Closing Time
+
+----
+
+Meta: 
+
+----
+
+Icon-image: semisonic.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USUV70500914&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

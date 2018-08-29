@@ -1,0 +1,29 @@
+Title: The Cardigans - Lovefool
+
+----
+
+Meta: 
+
+----
+
+Icon-image: cardigans.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=SEBK89629381&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

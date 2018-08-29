@@ -1,0 +1,29 @@
+Title: Oasis - Wonderwall
+
+----
+
+Meta: 
+
+----
+
+Icon-image: oasis.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=GBBQY0202100&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

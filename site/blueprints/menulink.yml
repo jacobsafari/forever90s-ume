@@ -1,0 +1,23 @@
+title: Link
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  icon_image:
+    label: Icon
+    type: selector
+    mode: single
+    types:
+      - image
+    width: 3/4
+  no_title:
+    label: Only Show Icon
+    type: toggle
+    width: 1/4
+    default: false
+  link:
+    label: Link
+    type: text
+    help: "Include http:// for external links. To link to a local view, start the URL with a slash (/about)"

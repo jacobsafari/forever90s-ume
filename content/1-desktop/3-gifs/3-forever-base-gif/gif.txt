@@ -1,0 +1,17 @@
+Title: forever-base.gif
+
+----
+
+Meta: 
+
+----
+
+Icon-image: forever-base.gif
+
+----
+
+Icon-silhouette-image: forever-base.gif
+
+----
+
+Main-image: forever-base.gif

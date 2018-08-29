@@ -1,0 +1,29 @@
+Title: Third Eye Blind - Semi-Charmed Life
+
+----
+
+Meta: 
+
+----
+
+Icon-image: thirdeyeblind.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USEE10608111&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

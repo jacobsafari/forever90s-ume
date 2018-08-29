@@ -1,0 +1,29 @@
+Title: New Radicals - You Get What You Give
+
+----
+
+Meta: 
+
+----
+
+Icon-image: newradicals.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USMCV9800011&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

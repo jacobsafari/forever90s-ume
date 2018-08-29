@@ -1,0 +1,29 @@
+Title: Beck - Loser
+
+----
+
+Meta: 
+
+----
+
+Icon-image: beck.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USIV20200298&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

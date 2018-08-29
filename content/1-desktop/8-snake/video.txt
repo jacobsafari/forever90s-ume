@@ -1,0 +1,29 @@
+Title: Snake
+
+----
+
+Meta: 
+
+----
+
+Icon-image: snake.png
+
+----
+
+Icon-silhouette-image: snakeon.png
+
+----
+
+Iframe-url: http://forever90s.net/snake.html
+
+----
+
+Iframe-w: 320
+
+----
+
+Iframe-h: 500
+
+----
+
+Iframe-help: 

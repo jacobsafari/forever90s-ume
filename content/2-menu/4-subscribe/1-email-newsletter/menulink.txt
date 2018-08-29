@@ -1,0 +1,13 @@
+Title: Email Newsletter
+
+----
+
+Icon-image: 
+
+----
+
+No-title: false
+
+----
+
+Link: https://pages.umusic-mail.com/ume/signup/

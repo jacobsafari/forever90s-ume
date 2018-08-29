@@ -1,0 +1,17 @@
+Title: forever-classic.gif
+
+----
+
+Meta: 
+
+----
+
+Icon-image: forever-classic.gif
+
+----
+
+Icon-silhouette-image: forever-classic.gif
+
+----
+
+Main-image: forever-classic.gif

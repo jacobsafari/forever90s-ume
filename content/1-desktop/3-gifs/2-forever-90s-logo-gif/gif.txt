@@ -1,0 +1,17 @@
+Title: Forever-90s-logo.gif
+
+----
+
+Meta: 
+
+----
+
+Icon-image: forever-90s-logo.gif
+
+----
+
+Icon-silhouette-image: forever-90s-logo.gif
+
+----
+
+Main-image: forever-90s-logo.gif

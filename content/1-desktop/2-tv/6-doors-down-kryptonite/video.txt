@@ -1,0 +1,29 @@
+Title: 3 Doors Down - Kryptonite
+
+----
+
+Meta: 
+
+----
+
+Icon-image: threedoorsdown.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USUV39900032&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

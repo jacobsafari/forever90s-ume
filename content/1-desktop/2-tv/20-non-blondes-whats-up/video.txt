@@ -1,0 +1,29 @@
+Title: 4 Non Blondes - What's Up
+
+----
+
+Meta: 
+
+----
+
+Icon-image: fournonblondes.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=USUV70501008&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

@@ -1,0 +1,17 @@
+Title: forever-hits.gif
+
+----
+
+Meta: 
+
+----
+
+Icon-image: forever-hits.gif
+
+----
+
+Icon-silhouette-image: forever-hits.gif
+
+----
+
+Main-image: forever-hits.gif

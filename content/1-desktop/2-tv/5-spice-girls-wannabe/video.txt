@@ -1,0 +1,29 @@
+Title: Spice Girls - Wannabe
+
+----
+
+Meta: 
+
+----
+
+Icon-image: spicegirls.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=GB1209600170&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 

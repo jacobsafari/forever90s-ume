@@ -1,0 +1,29 @@
+Title: The Smashing Pumpkins - 1979
+
+----
+
+Meta: 
+
+----
+
+Icon-image: sp.png
+
+----
+
+Icon-silhouette-image: off.png
+
+----
+
+Iframe-url: https://embed.vevo.com/?isrc=US0459500480&autoplay=true
+
+----
+
+Iframe-w: 560
+
+----
+
+Iframe-h: 315
+
+----
+
+Iframe-help: 
