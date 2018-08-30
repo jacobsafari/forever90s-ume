@@ -1,0 +1,17 @@
+Title: Nirvana - Nevermind (Remastered)
+
+----
+
+Meta: 
+
+----
+
+Icon-image: nirvana.png
+
+----
+
+Icon-silhouette-image: nirvana.png
+
+----
+
+Items: 

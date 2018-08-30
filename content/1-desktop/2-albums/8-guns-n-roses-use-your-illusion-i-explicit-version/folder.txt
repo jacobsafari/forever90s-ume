@@ -1,0 +1,17 @@
+Title: Guns N' Roses - Use Your Illusion I [Explicit]
+
+----
+
+Meta: 
+
+----
+
+Icon-image: gnr.png
+
+----
+
+Icon-silhouette-image: gnr.png
+
+----
+
+Items: 

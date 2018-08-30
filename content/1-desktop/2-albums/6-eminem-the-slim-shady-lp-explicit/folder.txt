@@ -1,0 +1,17 @@
+Title: Eminem - The Slim Shady LP [Explicit]
+
+----
+
+Meta: 
+
+----
+
+Icon-image: eminem.png
+
+----
+
+Icon-silhouette-image: eminem.png
+
+----
+
+Items: 

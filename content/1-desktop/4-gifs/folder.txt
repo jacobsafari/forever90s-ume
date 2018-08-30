@@ -1,0 +1,17 @@
+Title: Download 90’s GIFs
+
+----
+
+Meta: 
+
+----
+
+Icon-image: folder-files.gif
+
+----
+
+Icon-silhouette-image: folder-files-on.gif
+
+----
+
+Items: 
