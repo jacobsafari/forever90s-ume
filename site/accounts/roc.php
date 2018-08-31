@@ -7,8 +7,9 @@ email: jacob@rideorcry.com
 language: en
 role: admin
 history:
-  - desktop/ntwicf90s
-  - desktop/hip-hop
-  - desktop/tv
+  - >
+    desktop/albums/u2-the-joshua-tree-remastered/sound-of-vinyl
+  - desktop/albums/u2-the-joshua-tree-remastered/apple-video-playlist
+  - desktop/albums/u2-the-joshua-tree-remastered/apple-music
   - desktop/albums/tom-petty-greatest-hits/sound-of-vinyl
-  - desktop/albums/tom-petty-greatest-hits
+  - desktop/albums/tom-petty-greatest-hits/apple-video-playlist
