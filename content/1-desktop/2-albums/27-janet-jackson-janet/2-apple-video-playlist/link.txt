@@ -1,0 +1,17 @@
+Title: Apple Video Playlist
+
+----
+
+Meta: 
+
+----
+
+Icon-image: shake_icon.png
+
+----
+
+Icon-silhouette-image: shake_icon.png
+
+----
+
+Link: https://itunes.apple.com/us/playlist/janet-jackson-video-essentials/pl.6091b251215d4dad8f1d5918680de595?mt=1&app=music&at=1000lKmx

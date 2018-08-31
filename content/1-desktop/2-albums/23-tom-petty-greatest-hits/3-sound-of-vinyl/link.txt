@@ -1,0 +1,17 @@
+Title: Sound Of Vinyl
+
+----
+
+Meta: 
+
+----
+
+Icon-image: vinyl.png
+
+----
+
+Icon-silhouette-image: vinyl.png
+
+----
+
+Link: https://thesoundofvinyl.us/greatest-hits-petty-tom.html

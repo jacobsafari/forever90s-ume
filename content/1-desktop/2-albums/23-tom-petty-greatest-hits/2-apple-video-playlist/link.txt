@@ -1,0 +1,17 @@
+Title: Apple Video Playlist
+
+----
+
+Meta: 
+
+----
+
+Icon-image: shake_icon.png
+
+----
+
+Icon-silhouette-image: shake_icon.png
+
+----
+
+Link: https://itunes.apple.com/us/playlist/tom-petty-video-essentials/pl.536696bc93014820a4ae684f67a8921c?mt=1&app=music&at=1000lKmx

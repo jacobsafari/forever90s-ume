@@ -1,0 +1,17 @@
+Title: Tom Petty - Greatest Hits
+
+----
+
+Meta: 
+
+----
+
+Icon-image: tompetyy.png
+
+----
+
+Icon-silhouette-image: tompetyy.png
+
+----
+
+Items: 

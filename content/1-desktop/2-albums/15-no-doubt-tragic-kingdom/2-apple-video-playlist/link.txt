@@ -1,0 +1,17 @@
+Title: Apple Video Playlist
+
+----
+
+Meta: 
+
+----
+
+Icon-image: shake_icon.png
+
+----
+
+Icon-silhouette-image: shake_icon.png
+
+----
+
+Link: https://itunes.apple.com/us/playlist/gwen-stefani-no-doubt-video-essentials/pl.10aae253208e4e07b26c35487ffe642c?mt=1&app=music&at=1000lKmx

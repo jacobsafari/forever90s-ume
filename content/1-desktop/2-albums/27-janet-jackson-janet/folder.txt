@@ -1,0 +1,17 @@
+Title: Janet Jackson - Janet
+
+----
+
+Meta: 
+
+----
+
+Icon-image: janet.png
+
+----
+
+Icon-silhouette-image: janet.png
+
+----
+
+Items: 

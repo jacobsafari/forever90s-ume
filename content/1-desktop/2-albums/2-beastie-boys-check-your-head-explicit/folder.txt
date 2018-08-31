@@ -1,0 +1,17 @@
+Title: Beastie Boys - Check Your Head [Explicit]
+
+----
+
+Meta: 
+
+----
+
+Icon-image: beastie.png
+
+----
+
+Icon-silhouette-image: beastie.png
+
+----
+
+Items: 

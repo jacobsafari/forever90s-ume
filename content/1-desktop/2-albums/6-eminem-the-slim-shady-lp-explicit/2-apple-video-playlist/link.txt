@@ -1,0 +1,17 @@
+Title: Apple Video Playlist
+
+----
+
+Meta: 
+
+----
+
+Icon-image: shake_icon.png
+
+----
+
+Icon-silhouette-image: shake_icon.png
+
+----
+
+Link: https://itunes.apple.com/us/playlist/eminem-video-essentials/pl.d1d0ad7ebd9347908ce7ede0dff14793?mt=1&app=music&at=1000lKmx

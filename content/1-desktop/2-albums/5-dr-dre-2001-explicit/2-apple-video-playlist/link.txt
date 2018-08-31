@@ -1,0 +1,17 @@
+Title: Apple Video Playlist
+
+----
+
+Meta: 
+
+----
+
+Icon-image: shake_icon.png
+
+----
+
+Icon-silhouette-image: shake_icon.png
+
+----
+
+Link: https://itunes.apple.com/us/playlist/dr-dre-video-essentials/pl.789d7f3cd7f643b4a0bf8c11ca220535?mt=1&app=music&at=1000lKmx

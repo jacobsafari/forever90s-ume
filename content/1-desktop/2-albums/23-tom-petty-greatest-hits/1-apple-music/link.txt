@@ -1,0 +1,17 @@
+Title: Apple Music
+
+----
+
+Meta: 
+
+----
+
+Icon-image: speaker.png
+
+----
+
+Icon-silhouette-image: speaker.png
+
+----
+
+Link: https://ume.lnk.to/TPHGreatestHits/AppleMusic

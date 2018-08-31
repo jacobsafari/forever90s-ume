@@ -1,0 +1,17 @@
+Title: Dr. Dre - 2001 [Explicit]
+
+----
+
+Meta: 
+
+----
+
+Icon-image: dre.png
+
+----
+
+Icon-silhouette-image: dre.png
+
+----
+
+Items: 

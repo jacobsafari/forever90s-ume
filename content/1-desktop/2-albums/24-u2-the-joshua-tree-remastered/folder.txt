@@ -1,0 +1,17 @@
+Title: U2 - The Joshua Tree (Remastered)
+
+----
+
+Meta: 
+
+----
+
+Icon-image: u2.png
+
+----
+
+Icon-silhouette-image: u2.png
+
+----
+
+Items: 
